@@ -5,7 +5,7 @@ import os
 with open("README.md") as f:
     long_description = f.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'dlvenv helps you to setup an environment for Deep Learning in a single line of code with all dependencies'
 
 # Setting up
