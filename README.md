@@ -1,6 +1,4 @@
-# Data Science Environment Setup in single line
-
-#  [![PyPI version](https://badge.fury.io/py/datascienv.svg)](https://badge.fury.io/py/datascienv) [![GitHub version](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv.svg)](https://badge.fury.io/gh/ashishpatel26%2Fdatascienv) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+# Deep Learning Environment Setup in single line 
 
 This package helps to setup your Deep Learning environment in single line.
 
