@@ -30,10 +30,10 @@ dlvenv is a python package offering a single line Deep Learning Environment setu
 
 #### Installation
 
-* dlvenv is currently available on the PyPi's repository and you can install it via pip:
+* dlvenv is currently available on the test PyPi's repository and you can install it via pip:
 
 ```bash
-pip install -U dlvenv
+pip install -i https://test.pypi.org/simple/ dlvenv
 ```
 
 * If you prefer, you can clone it and run the setup.py file. Use the following commands to get a copy from GitHub and install all dependencies:
