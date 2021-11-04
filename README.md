@@ -1,3 +1,5 @@
+Source code is referred from https://github.com/ashishpatel26/datascienv
+
 # Deep Learning Environment Setup in single line 
 
 This package helps to setup your Deep Learning environment in single line.
