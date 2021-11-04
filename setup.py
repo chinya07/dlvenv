@@ -22,7 +22,7 @@ setup(
                       'scikit-learn', 'pyforest', 'pycaret', 'Theano',
                       'tensorflow-cpu'],
     keywords=['dlvenv', 'Deep Learning environment installation in single line', 'data science', 'deep learning', 'deep learning environment'],
-    url='http://github.com/ashishpatel26/datascienv',
+    url='https://github.com/chinya07/dlvenv',
     include_package_data=True,
     classifiers=[
         "License :: OSI Approved :: MIT License",
