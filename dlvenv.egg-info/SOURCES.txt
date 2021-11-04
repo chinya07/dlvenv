@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+dlvenv/__init__.py
+dlvenv/dlvenv.py
+dlvenv.egg-info/PKG-INFO
+dlvenv.egg-info/SOURCES.txt
+dlvenv.egg-info/dependency_links.txt
+dlvenv.egg-info/requires.txt
+dlvenv.egg-info/top_level.txt
+dlvenv.egg-info/zip-safe
